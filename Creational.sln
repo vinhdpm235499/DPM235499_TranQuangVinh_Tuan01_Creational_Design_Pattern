@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM235499_TranQuangVinh_FactoryPattern", "DPM235499_TranQuangVinh_FactoryPattern\DPM235499_TranQuangVinh_FactoryPattern.csproj", "{7530900A-BB5C-406D-AA5B-BB71BE5EEC14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM235499_TranQuangVinh_RealFactoryPattern_Nhanvienbanhang", "DPM235499_TranQuangVinh_RealFactoryPattern_Nhanvienbanhang\DPM235499_TranQuangVinh_RealFactoryPattern_Nhanvienbanhang.csproj", "{3C6C26C0-8398-40BB-8B53-A4A1294E158D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM235499_TranQuangVinh_AbstractFactory", "DPM235499_TranQuangVinh_AbstractFactory\DPM235499_TranQuangVinh_AbstractFactory.csproj", "{F352F5A2-D5D9-4092-B81F-906621EEC074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM235499_TranQuangVinh_RealAbstractFactory_Nhanvienbanhang", "DPM235499_TranQuangVinh_RealAbstractFactory_Nhanvienbanhang\DPM235499_TranQuangVinh_RealAbstractFactory_Nhanvienbanhang.csproj", "{A0D913F0-006B-46C2-A836-3A0E57AA0D93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM235499_TranQuangVinh_Builder", "DPM235499_TranQuangVinh_Builder\DPM235499_TranQuangVinh_Builder.csproj", "{B735D4AD-222A-443E-BF7A-9BEDE9D7D677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM235499_TranQuangVinh_RealBuilder_Nhanvienbanhang", "DPM235499_TranQuangVinh_RealBuilder_Nhanvienbanhang\DPM235499_TranQuangVinh_RealBuilder_Nhanvienbanhang.csproj", "{698AC515-027F-424E-875E-3F35FCFAED6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM235499_TranQuangVinh_Prototype", "DPM235499_TranQuangVinh_Prototype\DPM235499_TranQuangVinh_Prototype.csproj", "{9F88FE17-1020-4E7B-A991-37B00BF4F8AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM235499_TranQuangVinh_RealPrototype_Nhanvienbanhang", "DPM235499_TranQuangVinh_RealPrototype_Nhanvienbanhang\DPM235499_TranQuangVinh_RealPrototype_Nhanvienbanhang.csproj", "{9A97AAEF-371B-4EE2-BA72-1EEF246B535A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPM235499_TranQuangVinh_Singleton", "DPM235499_TranQuangVinh_Singleton\DPM235499_TranQuangVinh_Singleton.csproj", "{D984D95B-4378-4E5F-BAA3-5DDEDBB7F67F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7530900A-BB5C-406D-AA5B-BB71BE5EEC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7530900A-BB5C-406D-AA5B-BB71BE5EEC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7530900A-BB5C-406D-AA5B-BB71BE5EEC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7530900A-BB5C-406D-AA5B-BB71BE5EEC14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C6C26C0-8398-40BB-8B53-A4A1294E158D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6C26C0-8398-40BB-8B53-A4A1294E158D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6C26C0-8398-40BB-8B53-A4A1294E158D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6C26C0-8398-40BB-8B53-A4A1294E158D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F352F5A2-D5D9-4092-B81F-906621EEC074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F352F5A2-D5D9-4092-B81F-906621EEC074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F352F5A2-D5D9-4092-B81F-906621EEC074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F352F5A2-D5D9-4092-B81F-906621EEC074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0D913F0-006B-46C2-A836-3A0E57AA0D93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D913F0-006B-46C2-A836-3A0E57AA0D93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D913F0-006B-46C2-A836-3A0E57AA0D93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D913F0-006B-46C2-A836-3A0E57AA0D93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B735D4AD-222A-443E-BF7A-9BEDE9D7D677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B735D4AD-222A-443E-BF7A-9BEDE9D7D677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B735D4AD-222A-443E-BF7A-9BEDE9D7D677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B735D4AD-222A-443E-BF7A-9BEDE9D7D677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698AC515-027F-424E-875E-3F35FCFAED6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698AC515-027F-424E-875E-3F35FCFAED6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698AC515-027F-424E-875E-3F35FCFAED6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698AC515-027F-424E-875E-3F35FCFAED6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F88FE17-1020-4E7B-A991-37B00BF4F8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F88FE17-1020-4E7B-A991-37B00BF4F8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F88FE17-1020-4E7B-A991-37B00BF4F8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F88FE17-1020-4E7B-A991-37B00BF4F8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A97AAEF-371B-4EE2-BA72-1EEF246B535A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A97AAEF-371B-4EE2-BA72-1EEF246B535A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A97AAEF-371B-4EE2-BA72-1EEF246B535A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A97AAEF-371B-4EE2-BA72-1EEF246B535A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D984D95B-4378-4E5F-BAA3-5DDEDBB7F67F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D984D95B-4378-4E5F-BAA3-5DDEDBB7F67F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D984D95B-4378-4E5F-BAA3-5DDEDBB7F67F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D984D95B-4378-4E5F-BAA3-5DDEDBB7F67F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C23CC07-2523-45AF-9776-B3D1747A93BB}
+	EndGlobalSection
+EndGlobal
